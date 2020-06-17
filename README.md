@@ -1,0 +1,2 @@
+# configs
+vimrc and bashrc
