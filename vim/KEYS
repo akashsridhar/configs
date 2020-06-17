@@ -1,0 +1,22 @@
+
+Latex:
+
+ EIT itemize
+ ETE table
+ EFI figure
+
+ ~/.vim/ftplugin/latex-suite/wizardfuncs.vim
+ 
+Fold
+
+ zx open current fold and close others
+ zm close all folds
+ zn open all folds 
+
+ Check vimrc set fdm=marker
+
+Dictionary
+
+ zg add letter to dictionary
+ z= list correction options
+
